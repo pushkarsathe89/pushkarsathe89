@@ -1,4 +1,8 @@
 Hi, I’m @pushkarsathe89
+My other accounts: 
+1. https://github.com/pssNEI
+2. https://github.com/pss2-nist
+
 - 🌱 I’m currently learning TypeScript/Js, Angular, Node & Docker
 
 <!---
