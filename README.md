@@ -30,7 +30,6 @@ graph TD
 
     %% Microscopy Sub-Nodes
     Micro --> Micro1([EM Denoising])
-    Micro --> Micro2([Stitching MIST])
 
     %% AI & Analytics Sub-Nodes
     AI --> AI1([Probabilistic Models])
@@ -39,23 +38,22 @@ graph TD
     AI --> AI4([Smart Questionnaires])
 
 %% Materials: Includes your 'taichi_mpm' fork and 'Material' repos
-    click Mat "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+material+OR+roughness+OR+taichi&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+material+OR+roughness+OR+taichi&type=repositories)" "Search Materials"
-    click Mat1 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+roughness&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+roughness&type=repositories)" "Search Roughness Tools"
-    click Mat2 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+taichi+OR+mpm&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+taichi+OR+mpm&type=repositories)" "Search MPM Tools"
+    click Mat "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+material+OR+roughness+OR+taichi&type=repositories" "Search Materials"
+    click Mat1 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+roughness&type=repositories" "Search Roughness Tools"
+    click Mat2 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+taichi+OR+mpm&type=repositories" "Search MPM Tools"
 
     %% Microscopy: Includes NIST, NIH, and your 'gandissect' or 'opencv' work
-    click Micro "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+microscopy+OR+EM+OR+stitching+OR+opencv&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+microscopy+OR+EM+OR+stitching+OR+opencv&type=repositories)" "Search Microscopy"
-    click Micro1 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+denoise&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+denoise&type=repositories)" "Search Denoising"
-    click Micro2 "[https://github.com/usnistgov/MIST](https://github.com/usnistgov/MIST)" "Go to MIST Repository"
-
+    click Micro "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3Ausnistgov+OR+user%3ANIH-NEI+microscopy+OR+EM+OR+stitching+OR+opencv&type=repositories" "Search Microscopy"
+    click Micro1 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+denoise&type=repositories" "Search Denoising"
+    
     %% AI: Includes 'prophet', 'ludwig', 'TheErdosInstitute', 'INFER-Projects'
-    click AI "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3ATheErdosInstitute+OR+user%3AINFER-Projects+learning+OR+model+OR+analysis+OR+prophet+OR+ludwig&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3ATheErdosInstitute+OR+user%3AINFER-Projects+learning+OR+model+OR+analysis+OR+prophet+OR+ludwig&type=repositories)" "Search AI Projects"
+    click AI "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+OR+user%3ATheErdosInstitute+OR+user%3AINFER-Projects+learning+OR+model+OR+analysis+OR+prophet+OR+ludwig&type=repositories" "Search AI Projects"
     
     %% AI Sub-nodes
-    click AI1 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HMM+OR+gaussian+OR+prophet&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HMM+OR+gaussian+OR+prophet&type=repositories)" "Search Probabilistic Models"
-    click AI2 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+prompt+OR+LLM+OR+gpt&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+prompt+OR+LLM+OR+gpt&type=repositories)" "Search LLM Tools"
-    click AI3 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HAA+OR+kinect+OR+activity&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HAA+OR+kinect+OR+activity&type=repositories)" "Search HAA Projects"
-    click AI4 "[https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+questionnaire+OR+active&type=repositories](https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+questionnaire+OR+active&type=repositories)" "Search Questionnaires"
+    click AI1 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HMM+OR+gaussian+OR+prophet&type=repositories" "Search Probabilistic Models"
+    click AI2 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+prompt+OR+LLM+OR+gpt&type=repositories" "Search LLM Tools"
+    click AI3 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+HAA+OR+kinect+OR+activity&type=repositories" "Search HAA Projects"
+    click AI4 "https://github.com/search?q=user%3Apushkarsathe89+fork%3Atrue+questionnaire+OR+active&type=repositories" "Search Questionnaires"
 ```
 ### 📊 Vital Signs
 
