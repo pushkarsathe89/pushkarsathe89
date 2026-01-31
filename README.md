@@ -54,20 +54,8 @@ graph TD
     click AI4 "https://github.com/search?q=user%3Apushkarsathe89+questionnaire+OR+active&type=repositories" "Search Questionnaires"
 ```
 ### 📊 Vital Signs
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pushkarsathe89&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/pushkarsathe89">
-    <img src="https://github-readme-stats.vercel.app/api?username=pushkarsathe89&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/pushkarsathe89">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsathe89&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=pushkarsathe89&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 🤝 Let's Collaborate   
 
