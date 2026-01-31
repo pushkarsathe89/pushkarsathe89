@@ -54,16 +54,23 @@ graph TD
     click AI4 "https://github.com/search?q=user%3Apushkarsathe89+questionnaire+OR+active&type=repositories" "Search Questionnaires"
 ```
 ### 📊 Vital Signs
-<p align="left">
-  <a href="https://github.com/pushkarsathe89?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=pushkarsathe89&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/pushkarsathe89">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsathe89&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pushkarsathe89&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/pushkarsathe89">
+    <img src="https://github-readme-stats.vercel.app/api?username=pushkarsathe89&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/pushkarsathe89">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsathe89&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 🤝 Let's Collaborate   
+
 <!--Placeholder for autoblog or...-->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkarsathe)
